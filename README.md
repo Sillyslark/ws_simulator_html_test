@@ -1,0 +1,2 @@
+# ws_simulator_html_test
+一个或许可以使用的网页端ws伤害模拟器
